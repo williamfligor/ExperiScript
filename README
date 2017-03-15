@@ -1,0 +1,7 @@
+## Experimental compiler and python VM for a uselessly simple binary instruction set
+
+Write a script at the bottom of compiler.py
+
+```bash
+python3 compiler.py | python3 vm.py
+```
